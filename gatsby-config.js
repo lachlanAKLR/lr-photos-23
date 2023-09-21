@@ -10,7 +10,7 @@ module.exports = {
     resolve: 'gatsby-source-sanity',
     options: {
       "projectId": "yl5h5md4",
-      "dataset": ""
+      "dataset": "production"
     }
   }, "gatsby-plugin-image", "gatsby-plugin-sharp", "gatsby-transformer-sharp", "gatsby-plugin-styled-components", {
     resolve: 'gatsby-source-filesystem',
